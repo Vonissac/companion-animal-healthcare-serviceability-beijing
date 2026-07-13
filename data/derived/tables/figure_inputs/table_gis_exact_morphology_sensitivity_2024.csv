@@ -1,0 +1,14 @@
+fast_variable,exact_variable,n_pairwise,fast_mean,exact_mean,mean_absolute_difference,correlation
+building_footprint_ratio,building_footprint_ratio_exact,16992,0.0101327334957902,0.0101327334957902,0.0002762003082025,0.9987426294205158
+building_count_density_per_km2,building_fractional_count_density_per_km2_exact,16992,16.053731167608287,16.053731167628914,0.1013962379927777,0.9999753324081656
+building_height_mean,building_height_mean_area_weighted_exact,1773,17.288035619961878,16.38268070685494,2.741891698418681,0.7600757081366686
+ntl_2024_centroid,ntl_2024_mean_zonal,16890,6.102281093597412,6.1170839044327545,0.9481607966704388,0.9761717016410598
+morph_built_form_index,morph_built_form_index_exact,16992,1.2377627694502688e-16,6.690609564596047e-17,0.0079438705744959,0.9992650906905776
+morph_urban_intensity_index,morph_urban_intensity_index_exact,16992,3.9511931504421234e-08,1.5388401998570908e-16,0.0896012430795167,0.988228921201811
+morphology_composite_index,morphology_composite_index_exact,16992,1.6342148238120055e-08,1.0035914346894069e-17,0.0230588750641067,0.9989158743744702
+pet_medical_within_1000m,morphology_composite_index,12236,,,,0.551031966086079
+pet_medical_within_1000m,morphology_composite_index_exact,12236,,,,0.5517987339943601
+pet_medical_within_1000m,morph_built_form_index,12236,,,,0.497511068551847
+pet_medical_within_1000m,morph_built_form_index_exact,12236,,,,0.5014360519201523
+pet_medical_within_1000m,morph_urban_intensity_index,12236,,,,0.4238652206535319
+pet_medical_within_1000m,morph_urban_intensity_index_exact,12236,,,,0.4226945793656869

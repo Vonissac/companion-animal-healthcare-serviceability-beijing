@@ -1,0 +1,7 @@
+Validation question,Evidence base,Focal contrast,Model or stability,Interpretive scope
+Future pet-medical entry,"66,193 no-supply grid-years",Top Q 3.3%; bottom Q 0.0%,"LPM beta 0.018, p<0.001",Entry response in previously unserved cells.
+Platform veterinary presence,"73,448 grid-years",Top Q 42.2%; bottom Q 0.1%,"LPM beta 0.240, p<0.001",Market-facing visibility check.
+Pet-trace only,Entry and platform panels,Entry gap 1.5 pp; platform gap 31.1 pp,Full construct gaps 3.3 pp and 42.1 pp,Pet-trace signal is informative but narrower.
+Equal weighting,2024 cells plus validation panels,Latent gap 6.26m; main 6.16m,Spearman 0.984; top-pop overlap 97.8%,Stable under alternative weighting.
+Leave-one-layer-out,Alternative demand constructs,Latent gaps 5.77m-6.26m,Platform gaps 40.4-42.1 pp,No single layer dominates the construct.
+Scale sensitivity,Top 10-40% demand tests,Top-10 gap 2.92m; top-40 gap 9.00m,Entry and platform gaps stay positive,"Scale changes, direction does not."

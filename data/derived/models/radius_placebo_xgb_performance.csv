@@ -1,0 +1,10 @@
+model,target,n,r2
+xgb_pet_access_500m,log_pet_access_500m,85339,0.4887584119283639
+xgb_human_placebo_500m,log_human_access_500m,85339,0.8107152833474612
+xgb_shopping_placebo_500m,log_shopping_access_500m,85339,0.8182613955799913
+xgb_pet_access_1000m,log_pet_access_1000m,85339,0.7133083904689357
+xgb_human_placebo_1000m,log_human_access_1000m,85339,0.999996295540562
+xgb_shopping_placebo_1000m,log_shopping_access_1000m,85339,0.9998890604048256
+xgb_pet_access_2000m,log_pet_access_2000m,85339,0.8068913280178446
+xgb_human_placebo_2000m,log_human_access_2000m,85339,0.8711959439882104
+xgb_shopping_placebo_2000m,log_shopping_access_2000m,85339,0.8823519273732457

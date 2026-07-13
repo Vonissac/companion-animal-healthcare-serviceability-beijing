@@ -1,0 +1,12 @@
+Type or test,Cells,Population,Pop. share,Demand,Morphology,Serviceability,PW pet HC
+A high demand high morphology matched,"1,070",11.33m,51.2%,2.33,2.12,2.58,3.686
+B high demand high morphology latent gap,965,5.38m,24.3%,1.24,1.61,1.44,0.000
+C high demand lower morphology latent gap,351,0.73m,3.3%,0.66,0.48,0.90,0.000
+D high demand lower morphology matched exception,61,0.17m,0.8%,0.79,0.52,1.32,1.666
+E lower demand supply present,108,0.14m,0.6%,0.10,0.44,0.46,1.341
+F lower demand no supply,"9,681",4.39m,19.8%,-0.20,-0.13,-0.22,0.000
+Spatial clustering: morphology composite,"12,236",n/a,n/a,n/a,Moran I 0.883,p=0.001,clustered
+Spatial clustering: demand signal,"12,236",n/a,n/a,n/a,Moran I 0.873,p=0.001,clustered
+Spatial clustering: serviceability,"12,236",n/a,n/a,n/a,Moran I 0.843,p=0.001,clustered
+Spatial clustering: pet-medical exposure,"12,236",n/a,n/a,n/a,Moran I 0.605,p=0.001,clustered
+Spatial clustering: latent high-demand/no-supply,"12,236",n/a,n/a,n/a,Moran I 0.363,p=0.001,clustered

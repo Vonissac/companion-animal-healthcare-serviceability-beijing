@@ -1,0 +1,9 @@
+Evidence family,Target or contrast,Main result,Interpretive scope
+Exposure regression,log access 1 km,R2 0.722; RMSE 0.194,"Predictive, not causal"
+Presence classification,presence within 1 km,AUC 0.978; AP 0.856,Class imbalance retained
+Lifecycle classification,birth 2019-2024,AUC 0.888; AP 0.150,Entry is rare
+Lifecycle classification,persistence 2018-2024,AUC 0.982; AP 0.841,Persistence is highly structured
+Service-ecology increment,generic to full ecology,R2 0.459 to 0.586,Human medical and non-medical pet ecology both p<0.001
+Cumulative conversion,triad score 0 to 3,positive-growth share 3.5% to 59.4%,"Gradient, not proven synergy"
+Metro-parking interaction,all pet healthcare,near subway -0.266; parking 0.268; interaction 0.206,Transit-proximate but parking-conditioned
+Spatial diagnostics,2024 grid,outcome Moran I 0.644; residual Moran I 0.297,Spatial dependence remains

@@ -1,0 +1,11 @@
+Check,Test,Result,Manuscript interpretation
+Demand-morphology correlation,Spearman rho,0.864,Strong shared urban-maturity background.
+Demand-serviceability correlation,Spearman rho,0.891,Shared urban-maturity background is explicit.
+Morphology-serviceability correlation,Spearman rho,0.865,The shared background extends to the service environment.
+Demand VIF,auxiliary regression,12.74,Collinearity is material and informs interpretation.
+Morphology VIF,auxiliary regression,5.65,Morphology remains separable in joint models.
+Full presence model: demand,district FE LPM,0.149 (p<0.001),Demand retains independent spatial legibility.
+Full presence model: serviceability,district FE LPM,0.124 (p<0.001),Service environment retains independent translation power.
+Demand residual test,after morphology/serviceability,0.149 (p<0.001),Residual demand still predicts local exposure.
+Reduced ML without pet predictors,presence AUC,0.976,High performance is not driven only by near-synonym pet-service leakage.
+Reduced ML without pet predictors,log exposure R2,0.707,Broader locational structure remains predictive.

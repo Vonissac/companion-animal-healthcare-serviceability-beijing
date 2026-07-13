@@ -1,0 +1,6 @@
+Morphology block,Main source,GIS operation,Derived indicators,Interpretive boundary
+Activity form,Home/work population points,Metric CRS spatial join to 1 km grid,home/work COV density; work-home balance,"Activity morphology, not observed pet ownership."
+Built form,Chinese Building Dataset polygons,"Representative-point aggregation, checked by polygon-grid intersection","count, footprint ratio, height, function shares","Grid morphology, not parcel-level land-use causality."
+Functional/service form,Amap comparison POIs,Point-grid spatial join and category entropy,"POI density, service counts, functional mix","Service ecology, not direct demand."
+Urban intensity,VIIRS nighttime lights,"Centroid sampling, checked by raster-window zonal statistics",nighttime-light intensity,"Urban intensity anchor, not service quality."
+Exact GIS robustness,Building polygons and VIIRS raster,Exact footprint and zonal-statistics sensitivity tests,footprint corr. 0.999; NTL corr. 0.976; morphology corr. 0.999,Fast and exact morphology composites are nearly identical; model fit is stable.

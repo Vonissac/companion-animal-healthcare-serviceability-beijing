@@ -1,0 +1,17 @@
+supply_layer,mismatch_type,pw_supply_exposure,share_population_no_1km,population,cells
+all_pet_healthcare,latent_demand_gap,0.0,1.0,6250138.472455978,1328
+all_pet_healthcare,matched_high_demand_supply,3.658789859646996,0.0,11478835.48517257,1119
+all_pet_healthcare,middle_or_matched,0.05052268109044,0.9643861295955648,4410097.541361043,9784
+all_pet_healthcare,supply_ahead_of_proxy_demand,1.0,0.0,2591.9055032730103,5
+advanced_or_chain,latent_demand_gap,0.0,1.0,6250138.472455978,1328
+advanced_or_chain,matched_high_demand_supply,1.4262822605310006,0.3555270090036488,11478835.48517257,1119
+advanced_or_chain,middle_or_matched,0.0117343219724775,0.9900361607417062,4410097.541361043,9784
+advanced_or_chain,supply_ahead_of_proxy_demand,0.034869043572788,0.965130956427212,2591.9055032730103,5
+community_or_clinic,latent_demand_gap,0.0,1.0,6250138.472455978,1328
+community_or_clinic,matched_high_demand_supply,0.1764088049182083,0.8399108841409201,11478835.48517257,1119
+community_or_clinic,middle_or_matched,0.0013322947991978,0.9986677052008022,4410097.541361043,9784
+community_or_clinic,supply_ahead_of_proxy_demand,0.0,1.0,2591.9055032730103,5
+general,latent_demand_gap,0.0,1.0,6250138.472455978,1328
+general,matched_high_demand_supply,2.056098794197787,0.1395533962942904,11478835.48517257,1119
+general,middle_or_matched,0.0374560643187647,0.9710775187511927,4410097.541361043,9784
+general,supply_ahead_of_proxy_demand,0.965130956427212,0.034869043572788,2591.9055032730103,5
